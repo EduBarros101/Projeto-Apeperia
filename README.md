@@ -6,3 +6,7 @@ Projeto para aplicação dos conceitos estudados na Trilha Full Stack do Program
 
 - HTML
 - CSS com Flexbox
+
+## Página do Projeto
+
+🔗 Link: https://edubarros101.github.io/Projeto-Apeperia/
